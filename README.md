@@ -23,7 +23,7 @@ List with the title and the author.
 
 ## Novels
 1. Little House on the Prairie - Laura Ingalls Wilder 
-2. 
+2. Mickey Mouse's Melancholy　- Keisuke Matsuoka
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
 2. The Sign of Four - Arthur Ignatius Conan Doyle
