@@ -26,6 +26,6 @@ List with the title and the author.
 2. 
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
-
+2. The Sign of Four - Arthur Ignatius Conan Doyle
 
 
