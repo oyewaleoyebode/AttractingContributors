@@ -20,6 +20,8 @@ Let's build a collection of our favorite books in two categories: Novels, Inspir
 List with the title and the author.
 
 # 📚 Share Your Favorite Books: Novels and Inspirational BOOKS! 🌟
+Novels: Share those books that kept you up late because you just had to know what happens next!
+Inspirational Reads: Tell us about books that touched your heart or made you see things differently, offered valuable lessons, or reshaped your perspective.
 
 ## Novels
 1. Little House on the Prairie - Laura Ingalls Wilder 
