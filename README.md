@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project 
+Let's build a collection of our favorite books in two categories: Novels, Inspirational Books.
+List with the title and the author.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+# 📚 Share Your Favorite Books: Novels and Inspirational BOOKS! 🌟
 
-# List of Hobby
+## Novels
+1. Little House on the Prairie - Laura Ingalls Wilder 
+2. 
+## Inspirational Reads
+1. Last Lecture - Randy Pausch
+
+
+
