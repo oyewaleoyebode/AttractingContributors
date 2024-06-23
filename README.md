@@ -27,6 +27,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 1. Little House on the Prairie - Laura Ingalls Wilder 
 2. Mickey Mouse's Melancholy　- Keisuke Matsuoka
 3. Your Forma (Light Novel)
+4. medium - Sako Aizawa
 ## Inspirational Reads
 1. Last Lecture - Randy Pausch
 2. The Sign of Four - Arthur Ignatius Conan Doyle
