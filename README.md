@@ -9,3 +9,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2- Google Home</br>
 3- Chat GPT4-o</br>
 4- Microsoft Bing Copilot <br/>
+5- Stable Diffusion <br/>
