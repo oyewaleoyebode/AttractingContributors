@@ -7,3 +7,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # What is your favorite AI device? Share your thoughts with me.
 1- Amazon Echo
 2- Google Home
+3- Chat GPT4-o
