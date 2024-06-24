@@ -10,3 +10,11 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3- Chat GPT4-o</br>
 4- Microsoft Bing Copilot <br/>
 5- Grammarly </br>
+6- Stable Diffusion <br/>
+7- Microsoft Bing Copilot </br>
+8- Apple HomePod </br>
+9- Microsoft Bing Copilot <br/>
+10- Perplexity<br/>
+
+
+
