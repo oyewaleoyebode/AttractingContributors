@@ -33,6 +33,7 @@ Inspirational Reads: Tell us about books that touched your heart or made you see
 2. The Sign of Four - Arthur Ignatius Conan Doyle
 3. Harry Potter
 4. Lord of the Rings
+5. Percy Jackson and the Olympians
    
 
 
