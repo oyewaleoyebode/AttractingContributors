@@ -23,5 +23,4 @@ Goal - I want contributors to help me list some favorite noodles.
 2. salt ramen</br>
 3. tsukemen</br>
 4. Tonkotsu Ramen</br>
-5. Spaghetti bolognese</br>
-6. Miso </br>
+5. Soba</br>
