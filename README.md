@@ -15,7 +15,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8- Apple HomePod </br>
 9- Microsoft Bing Copilot <br/>
 10- Perplexity<br/>
-11- Chat GPT4
+11- Chat GPT4</br>
+12- Nest Thermostat</br>
 
 
 
